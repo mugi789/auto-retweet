@@ -20,5 +20,6 @@ otomatis meretweet dan like kata yg dicari ditwitter
 
 ##### End
 
-Kalau masih bingung silahkan bertanya :)
+Maaf kalau kata2 saya kurang dimengerti
+Jika masih bingung silahkan bertanya :)
 hehe
