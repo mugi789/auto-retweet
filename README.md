@@ -11,7 +11,7 @@ otomatis meretweet dan like kata yg dicari ditwitter
 ### Cara Penggunaan
 ```
 1. Edit file credentials.py , ganti kata 'xxxxxxxxxx' dengan api key
-2. Edit kata yg mau dicari di file cari.py
+2. Edit kata yg mau dicari di file retweet.py
 3. Buka terminal/termux -> run python retweet.py
 ```
 
