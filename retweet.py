@@ -15,7 +15,7 @@ print("Your location\t: " + user.location)
 print("=====================================")
 
 #Mencari kata
-for status in tweepy.Cursor(api.search, q='cerita horror', src='recent_search_click', f='live', lang='id').items(50):
+for status in tweepy.Cursor(api.search, q='masukan kata yg ingin dicari', src='recent_search_click', f='live', lang='id').items(50):
     try:
         print('============================================')
         print('\nTweet by: @' + status.user.screen_name)
