@@ -26,6 +26,7 @@ for status in tweepy.Cursor(api.search, q='cerita horror', src='recent_search_cl
         status.favorite()
         print('Done !!!')
         print('============================================')
+        print('\n')
 
     except tweepy.TweepError as e:
         print(e.reason)
