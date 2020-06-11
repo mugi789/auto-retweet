@@ -19,3 +19,6 @@ otomatis meretweet dan like kata yg dicari ditwitter
 ![alt text](https://raw.githubusercontent.com/mugi789/auto-retweet/master/Screenshot_2020-06-11_23-32-37.png)
 
 ##### End
+
+Kalau masih bingung silahkan bertanya :)
+hehe
