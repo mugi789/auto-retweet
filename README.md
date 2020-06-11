@@ -12,7 +12,7 @@ otomatis meretweet dan like kata yg dicari ditwitter
 ```
 1. Edit file credentials.py , ganti kata 'xxxxxxxxxx' dengan api key
 2. Edit kata yg mau dicari di file cari.py
-3. Buka terminal/termux -> run python cari.py
+3. Buka terminal/termux -> run python retweet.py
 ```
 
 #### Screenshot / Penampakan
