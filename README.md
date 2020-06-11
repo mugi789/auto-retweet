@@ -1,17 +1,18 @@
 # Deskripsi singkat
-otomatis meretweet kata yg dicari ditwitter
+otomatis meretweet dan like kata yg dicari ditwitter
 
 ## Hal yg perlu diinstall sebelum digunakan
 ```
-1. Membuat aplikasi terlebih dahulu untuk mendapatkan API Key, tutorialnya ada disini https://cahbiyen.blogspot.com/2015/09/cara-mendapatkan-api-twitter.html
+1. Membuat aplikasi terlebih dahulu untuk mendapatkan API Key di http://developer.twitter.com/
 2. apt install python
 3. pip install tweepy
 ```
 
-### Penggunaan
+### Cara Penggunaan
 ```
 1. Edit file credentials.py , ganti kata 'xxxxxxxxxx' dengan api key
-2. 
+2. Edit kata yg mau dicari di file cari.py
+3. Buka terminal/termux -> run python cari.py
 ```
 
 #### Screenshot / Penampakan
